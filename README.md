@@ -1,11 +1,13 @@
 This project is essentially YouTube + my YouTube shorts! it is essentially a website that displays both general YouTube content and specifically highlights my own shorts!
 
 Steps to run the project:
+
 1.npm install: Do this the first time you are starting the project as node_modules has been deleted to reduce the size of the project.
 
 2.npm start: This step is only required the next time you run the project. 
 
 Features:
+
 1.Header is just like YouTube + has My channel Logo! You can click on it(my channel Logo) to see my top 50 shorts(based on number of views) of my YouTube channel Gamesutra!
 
 2.50 trending videos will be displayed on the homepage(special emphasis of YouTube India content)!
