@@ -25,5 +25,3 @@ Features:
 8.There is also a search bar. Though you can't actually search but the search suggestions are just like YouTube!
 
 9.Also when you search there is debouncing! If API calling is less than a particular time(let's say 150ms) then it will be rejected. This helps in reducing API calls and making the search more efficient!
-
-10.The last but not the least, the website is also responsive! It doesn't break on smaller devices like mobiles!
