@@ -112,7 +112,7 @@ const Header = () => {
       <div className="flex">
       <a href = "/myVideos">
         <img
-          className="w-28 my-10 h-24 md:my-0 md:h-16 cursor-pointer md:mx-4 md:w-16 "
+          className="w-[90rem] my-10 h-24 md:my-0 md:h-16 cursor-pointer md:mx-4 md:w-16 "
           alt="channel logo"
           src={channelLogo}
         ></img>
