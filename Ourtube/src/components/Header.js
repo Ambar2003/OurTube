@@ -76,11 +76,11 @@ const Header = () => {
           <img
             src={ourTube}
             alt="logo"
-            className="mx-3 h-24 my-9 md:h-16 w-20 md:mx-4 md:my-1 cursor-pointer"
+            className="my-10 h-24 md:my-1 md:h-16 cursor-pointer mx-4"
           ></img>
         </a>
       </div>
-      <div className="my-16 mx-1 md:my-4 md:mx-80 relative">
+      <div className="my-16 mx-[7rem] md:my-4 md:mx-80 relative">
         <div className="flex md:flex-none">
           <input
             type="text"
@@ -118,7 +118,7 @@ const Header = () => {
         ></img>
         </a>
         <img
-          className="my-10 h-24 md:my-0 md:h-16 cursor-pointer mx-4 "
+          className="md:block hidden my-10 h-24 md:my-0 md:h-16 cursor-pointer mx-4 "
           alt="user icon"
           src={userIcon}
         ></img>
