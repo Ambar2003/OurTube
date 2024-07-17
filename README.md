@@ -26,4 +26,4 @@ Features:
 
 9.Also when you search there is debouncing! If API calling is less than a particular time(let's say 150ms) then it will be rejected. This helps in reducing API calls and making the search more efficient!
 
-10. I have also tried to implement responsive web design. Though it is not perfect as on smaller devices like mobile my YouTube channel Logo button on the header is not present. Also I have removed the buttons present just below the YouTube     for better readability.
+10. I have also tried to implement responsive web design. Though it is not perfect as on smaller devices like mobile my YouTube channel Logo button on the header is not present. Also I have removed the buttons present just below the YouTube     header for better readability.
